@@ -1,5 +1,7 @@
 # rezolva o ecuatie de tipul ax**2 + bx + c = 0
 
+
+
 # importa modulul de matematica
 import math
 import os
@@ -31,7 +33,7 @@ cls()
 # printeaza discriminantul
 print(d)
 
-# printeaza valorile
+# printeaza valorile 
 if x1 == x2 :
     print('x1=x2=', end = '') 
     print(x1)
