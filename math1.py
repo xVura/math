@@ -31,7 +31,7 @@ cls()
 # printeaza discriminantul
 print(d)
 
-# printeaza 
+# printeaza valorile
 if x1 == x2 :
     print('x1=x2=', end = '') 
     print(x1)
