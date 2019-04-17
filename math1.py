@@ -53,6 +53,8 @@ if a > 0 :
     print(' pentru x = ', end ='')
     print(x)
 
+# pastreaza programul deschis in consola
+input ("Apasa pe orice tasta ca sa iesi")
     
 
 

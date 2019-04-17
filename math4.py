@@ -14,7 +14,7 @@ b1 = float(input("Introdu termenul liber din f(x): "))
 a2 = float(input("Introdu coeficientul lui x din g(x): "))
 b2 = float(input("Introdu termenul liber din g(x): "))
 
-# se determina variabilele x si f(x) sau g(x)
+# se definesc si determina variabilele
 x = (b2-b1)/(a1-a2)
 y = a1*x + b1
 
@@ -22,5 +22,5 @@ y = a1*x + b1
 print ("Graficele functiilor se intersecteaza in punctul de coordonate: ", end= "\n")
 print ("(", x, ", ", y, ")", end='\n')
 
-# pastreaza programul deschis
+# pastreaza programul deschis in consola
 input ("Apasa pe orice tasta ca sa iesi")

@@ -27,3 +27,5 @@ print(x)
 print('Y este ' , end='')
 print(y)
 
+# pastreaza programul deschis in consola
+input ("Apasa pe orice tasta ca sa iesi")
