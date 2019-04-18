@@ -1,17 +1,18 @@
+# ACEST SCRIPT TRASEAZA INTERSECTIA GRAFICULUI FUNCTIEI CU AXA OX SI OY
 
-# SCRIPT DE PROBA
+# Importa modulele necesare
 import numpy as np
 import matplotlib.pyplot as plt
 import math
-
-
 fig = plt.figure()
 
 
-
+# Momentan lasa utilizatorul sa introduca x si y
 x = float(input("Introdu numarul x: "))
 y = float(input("Introdu numarul y: "))
 
+
+# Stabileste daca axa este pozitiva sau negativa
 if x > 0 and y > 0 :
     #x1 = np.linspace(x, math.inf)
     #y1 = np.linspace(y, math.inf)
@@ -24,8 +25,8 @@ if x < 0 and y < 0 :
     y1 = np.linspace(0, y)
 
 
+# Trasarea propriu zisa
 ax = plt.gca()
-
 ax.plot(x1, y1)
 ax.grid(True)
 ax.spines['left'].set_position('zero')
