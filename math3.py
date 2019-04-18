@@ -24,6 +24,18 @@ if x < 0 and y < 0 :
     x1 = np.linspace(0, x)
     y1 = np.linspace(0, y)
 
+# Stabileste situatii intercalate
+if x > 0 and y < 0 :
+    #x1 = np.linspace(x, math.inf)
+    #y1 = np.linspace(-math.inf, y)
+    x1 = np.linspace(x, 0)
+    y1 = np.linspace(0, y)
+if x < 0 and y > 0 :
+    #x1 = np.linspace(-math.inf, x)
+    #y1 = np.linspace(y, math.inf)
+    x1 = np.linspace(0, x)
+    y1 = np.linspace(y, 0)
+
 
 # Trasarea propriu zisa
 ax = plt.gca()
