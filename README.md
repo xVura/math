@@ -17,6 +17,6 @@ proiectele la mate cu ajutorul codului .**
 ### PENTRU CONTACT  
 
 <pre>
-* INSTAGRAM : eaglevura  
-&nbsp;&nbsp;&nbsp;tere.roxy  
+* MAIL : rares.vura@yahoo.com 
+&nbsp;&nbsp;&nbsp;tere.roxy.rt@gmail.com
 </pre>
