@@ -4,7 +4,7 @@
 
 **Am decis sa facem niste scripturi ce  
 ne ajuta verificam automatizat  
-temele la mate cu ajutorul codului .  
+temele la matematica cu ajutorul codului .  
 Scriptul rezolva exercitiile cu ajutorul   
 datelor introduse si afiseaza DOAR rezultatul.  **  
 
