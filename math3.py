@@ -48,3 +48,6 @@ ax.spines['bottom'].set_position('zero')
 ax.spines['top'].set_color('none')
 plt.savefig("CenterOriginMatplotlib01.png")
 plt.show()
+
+# pastreaza programul deschis in consola
+input ("Apasa pe orice tasta ca sa iesi: ")

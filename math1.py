@@ -54,7 +54,7 @@ if a > 0 :
     print(x)
 
 # pastreaza programul deschis in consola
-input ("Apasa pe orice tasta ca sa iesi")
+input ("Apasa pe orice tasta ca sa iesi: ")
     
 
 

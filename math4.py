@@ -23,4 +23,4 @@ print ("Graficele functiilor se intersecteaza in punctul de coordonate: ", end= 
 print ("(", x, ", ", y, ")", end='\n')
 
 # pastreaza programul deschis in consola
-input ("Apasa pe orice tasta ca sa iesi")
+input ("Apasa pe orice tasta ca sa iesi: ")
