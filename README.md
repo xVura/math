@@ -10,7 +10,8 @@ proiectele la mate cu ajutorul codului .**
 ## ! INSTALARE !  
 ```
 * 1.Instalati PYTHON ;  
-* 2.INSTALATI MODULELE necesare pentru rularea scripturilor ;  
+* 2.Deschideti terminalul de PYTHON si rulati comanda  
+* pip install requirements.txt  
 * 3.Rulati scriptul si urmati instructiunile .  
 ```
 ### PENTRU CONTACT  
