@@ -18,5 +18,5 @@ proiectele la mate cu ajutorul codului .**
 
 <pre>
 * INSTAGRAM : eaglevura  
-  &nbsp;&nbsp;tere.roxy  
+     &nbsp;&nbsp;tere.roxy  
 </pre>
