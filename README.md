@@ -16,4 +16,4 @@ proiectele la mate cu ajutorul codului .**
 ### PENTRU CONTACT  
 
 * INSTAGRAM : eaglevura  
-*             tere.roxy  
+              tere.roxy  
