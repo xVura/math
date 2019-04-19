@@ -11,7 +11,7 @@ proiectele la mate cu ajutorul codului .**
 ```
 * 1.Instalati PYTHON ;  
 * 2.Deschideti terminalul de PYTHON si rulati comanda  
-* pip install requirements.txt  
+* pip install -r requirements.txt  
 * 3.Rulati scriptul si urmati instructiunile .  
 ```
 ### PENTRU CONTACT  
