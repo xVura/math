@@ -41,7 +41,6 @@ E = np.linspace (z1, t1)
 F = np.linspace (z2, t2)
 G = np.linspace (g1, h1)
 H = np.linspace (g2, h2)
-
 # afiseaza coordonatele punctelor determinate de intersectiile cu sistemul ortogonal de axe
 print ("Graficul functiei f(x) intersecteaza axa Ox in punctul: ")
 print ("(", end="")
@@ -66,8 +65,7 @@ elif abs(b) < 10000:
 
 else:
     ax.plot(G, H)
-
-ax.plot(A, B)
+ax.plot(A,B)
 ax.grid(True)
 ax.spines['left'].set_position('zero')
 ax.spines['right'].set_color('none')
