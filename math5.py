@@ -1,6 +1,7 @@
 # acest script determina intersectia unei functii liniare cu axele de coordonate si o reprezinta
 
 import math
+import cmath
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -22,13 +23,17 @@ print('; ', end="")
 print(b, end="")
 print(")")
 
+
+
+
 # punctele pana la care se traseaza graficul
 A = np.linspace(x, 0)
 B = np.linspace(0, b)
-
 # Trasarea propriu zisa
 ax = plt.gca()
 ax.plot(A, B)
+
+
 ax.grid(True)
 ax.spines['left'].set_position('zero')
 ax.spines['right'].set_color('none')
