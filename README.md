@@ -3,8 +3,8 @@
 
 
 **Am decis sa facem niste scripturi ce  
-ne ajuta verificam automatizat  
-temele la matematica cu ajutorul codului .  
+ne ajuta verificam 
+temele la matematica cu ajutorul codului.  
 Scriptul rezolva exercitiile cu ajutorul   
 datelor introduse si afiseaza DOAR rezultatul.  **  
 
