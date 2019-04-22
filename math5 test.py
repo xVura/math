@@ -57,7 +57,6 @@ print(")")
 
 # traseaza graficul
 ax = plt.gca()
-ax.plot(A, B)
 
 if abs(b) < 100:
     ax.plot(C, D)
@@ -68,6 +67,7 @@ elif abs(b) < 10000:
 else:
     ax.plot(G, H)
 
+ax.plot(A, B)
 ax.grid(True)
 ax.spines['left'].set_position('zero')
 ax.spines['right'].set_color('none')
