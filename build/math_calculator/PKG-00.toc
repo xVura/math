@@ -1,0 +1,88 @@
+('E:\\math\\build\\math_calculator\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz', 'E:\\math\\build\\math_calculator\\PYZ-00.pyz', 'PYZ'),
+  ('struct',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('math_calculator', 'E:\\math\\math_calculator.py', 'PYSOURCE'),
+  ('python37.dll',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\python37.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_ssl',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('libssl-1_1.dll',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\roxy '
+   'tere\\appdata\\local\\programs\\python\\python37-32\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'E:\\math\\build\\math_calculator\\base_library.zip',
+   'DATA'),
+  ('math_calculator.exe.manifest',
+   'E:\\math\\build\\math_calculator\\math_calculator.exe.manifest',
+   'BINARY'),
+  ('pyi-windows-manifest-filename math_calculator.exe.manifest', '', 'OPTION')],
+ False,
+ False,
+ False)
